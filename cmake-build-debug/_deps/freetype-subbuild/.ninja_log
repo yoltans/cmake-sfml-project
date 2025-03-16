@@ -1,0 +1,21 @@
+# ninja log v6
+3	104	7638562086916312	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	ec2f03412db8cc4
+3	104	7638562086916312	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	ec2f03412db8cc4
+105	12189	7638562207809562	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	e645833f1bcc6d18
+105	12189	7638562207809562	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	e645833f1bcc6d18
+12204	12368	7638562208034441	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	155ced06977b5190
+12204	12368	7638562208034441	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	155ced06977b5190
+12368	12472	7638562210653223	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d9eac3504a17964a
+12368	12472	7638562210653223	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	d9eac3504a17964a
+12473	12539	7638562211318185	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	aa5260f2bcd18449
+12473	12539	7638562211318185	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	aa5260f2bcd18449
+12539	12610	7638562212007028	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1413eccecb6588e2
+12539	12610	7638562212007028	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1413eccecb6588e2
+12611	12685	7638562212782108	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	ce28d33fd0245931
+12611	12685	7638562212782108	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	ce28d33fd0245931
+12685	12782	7638562213720958	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	7f68ea99f5099826
+12685	12782	7638562213720958	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	7f68ea99f5099826
+12782	12886	7638562214783025	CMakeFiles/freetype-populate-complete	6a7ce9434ba3952f
+12782	12886	7638562214783025	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6a7ce9434ba3952f
+12782	12886	7638562214783025	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	6a7ce9434ba3952f
+12782	12886	7638562214783025	C:/Users/danie/Downloads/cmake-sfml-project/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	6a7ce9434ba3952f
